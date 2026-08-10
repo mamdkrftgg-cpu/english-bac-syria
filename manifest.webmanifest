@@ -1,0 +1,11 @@
+{
+  "name": "English Bac Syria — منصة البكالوريا الذكية",
+  "short_name": "English Bac Syria",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#060913",
+  "theme_color": "#8067ff",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": []
+}
