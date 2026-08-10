@@ -1,4 +1,4 @@
-# English Bac Syria — Pro
+# لغاتي — Pro
 
 منصة Static تعمل مباشرة على GitHub Pages.
 
